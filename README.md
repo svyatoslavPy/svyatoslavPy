@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋 My name is Svyatoslav</h1>
-<h3 align="center">I'm a passionate Developer from Ukraine.</h3>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+passionate+Developer;from+Ukraine!&font=Fira%20Code&center=true&width=380&height=50">
+</h3>
 ## 🙋‍♂️ About Me
 
 
