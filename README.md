@@ -3,9 +3,8 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+passionate+Developer;from+Ukraine!&font=Fira%20Code&center=true&width=380&height=50">
 </h3>
- 🙋‍♂️ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
-
+ ## 🙋‍♂️ 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
 𝘐'𝘮 𝘮𝘰𝘵𝘪𝘷𝘢𝘵𝘦𝘥 𝘐𝘛 𝘚𝘵𝘦𝘱 𝘈𝘤𝘢𝘥𝘦𝘮𝘺 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴 ​​𝘭𝘪𝘬𝘦 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘏𝘛𝘔𝘓, 𝘊𝘚𝘚, 𝘢𝘯𝘥 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵, 𝘣𝘶𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘪𝘴 𝘮𝘺 𝘱𝘳𝘪𝘰𝘳𝘪𝘵𝘺.
 
