@@ -8,7 +8,7 @@ Hi! 👋 My name is Svyatoslav
 
 * 🌍  I'm based in Niderland 🇳🇱
 * 🖥️  See my portfolio at [https://t.me/portfolio\_frontend](http://t.me/portfolio_frontend)
-* ✉️  You can contact me at <a href="mailto:svyatoslavik9@gmail.com"><img src="https://img.shields.io/badge/Email-svyatoslavik9%40gmail.com-orange"></a>
+* ✉️  You can contact me at [svyatoslavik9@gmail.com](mailto:svyatoslavik9@gmail.com)
 * 🧠  I'm learning Web Development
 
 ### Skills
