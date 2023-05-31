@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+passionate+Developer;from+Ukraine!&font=Fira%20Code&center=true&width=380&height=50">
 </h3>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Svyatoslav
+Hi! 👋 My name is Svyatoslav
 ----------------------------
 
 * 🌍  I'm based in Niderland 🇳🇱
