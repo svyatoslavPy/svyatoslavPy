@@ -1,7 +1,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=620&lines=My+name+is+Svyatoslav+and+I+am+a+Front-end+developer" alt="Typing SVG" />
 
-Middle frontend developer
 -------------------------
 
 Frontend developer with 5+ years of commercial experience, working in teams ranging from 2 to 40 members, which allows me to have an understanding of the whole development cycle, including teamwork that took place according to scrum/agile methodologies, always trying to be autonomous, responsible, and take ownership of what I take on. Expert in react development, creating UI interfaces and functionality, and optimizing for application flexibility and extensibility. In addition, besides my main stack, I also like to follow new front-end libraries and technologies. My hobby is participating in various hackathons. I have also been trying to contribute to Open Source.
