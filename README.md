@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=My+name+is+Svyatoslav+and+I+am+a+Front-end+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=600&lines=my+name+is+Svyatoslav+and+I+am+a+Front-end+developer" alt="Typing SVG" />
 
 Middle frontend developer
 -------------------------
