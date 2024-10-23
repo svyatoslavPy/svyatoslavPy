@@ -5,7 +5,6 @@
 
 Frontend developer with 5+ years of commercial experience, working in teams ranging from 2 to 40 members, which allows me to have an understanding of the whole development cycle, including teamwork that took place according to scrum/agile methodologies, always trying to be autonomous, responsible, and take ownership of what I take on. Expert in react development, creating UI interfaces and functionality, and optimizing for application flexibility and extensibility. In addition, besides my main stack, I also like to follow new front-end libraries and technologies and participate in various hackathons.
 
-* 🌍  I'm based in Dubai, United Arab Emirates
 * ✉️  You can contact me at [georgiyev.svyatoslav@proton.me](mailto:georgiyev.svyatoslav@proton.me)
 
 ### Skills
