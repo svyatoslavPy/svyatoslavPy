@@ -3,7 +3,8 @@
 
 -------------------------
 
-Frontend developer with 5+ years of commercial experience, working in teams ranging from 2 to 40 members, which allows me to have an understanding of the whole development cycle, including teamwork that took place according to scrum/agile methodologies, always trying to be autonomous, responsible, and take ownership of what I take on. Expert in react development, creating UI interfaces and functionality, and optimizing for application flexibility and extensibility. In addition, besides my main stack, I also like to follow new front-end libraries and technologies and participate in various hackathons.
+Frontend developer with 𝟱+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲, working in teams ranging from 2 to 40 members, both remotely and on-site, which allows me to have an understanding of the whole development cycle. Including teamwork that took place according to 𝗦𝗰𝗿𝘂𝗺/𝗔𝗴𝗶𝗹𝗲 methodologies. Always I'm being autonomous, responsible, and take ownership of what I take on. Expert in react development, creating UI interfaces and functionality, and optimizing for application flexibility and extensibility.
+In addition, besides my main stack, I also like to follow new front-end libraries and technologies and participate in various hackathons.
 
 * ✉️  You can contact me at [georgiyev.svyatoslav@proton.me](mailto:georgiyev.svyatoslav@proton.me)
 
